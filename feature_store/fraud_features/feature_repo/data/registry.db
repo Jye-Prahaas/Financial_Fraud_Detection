@@ -1,0 +1,93 @@
+
+Š
+j
+transaction;Dataset-local transaction row for offline feature retrieval"transaction_idJfraud_features
+ĞóÖĞ±¢İĞóÖĞ±¢İ
+E
+%
+__dummy"
+__dummy_idJfraud_features
+ĞóÖĞ±¢İĞóÖĞ±¢İ1"$7b22d677-e608-4a46-82c8-7a5d8c99f679*àº÷Ö š§³2
+ë
+fraud_transaction_featuresfraud_featurestransaction"
+step"
+
+amount"
+oldbalanceOrg"
+oldbalanceDest"
+
+amount_log"
+amount_to_origin_balance"!
+amount_exceeds_origin_balance"
+origin_balance_is_zero"
+is_transfer"
+is_cash_out"
+type_CASH_IN"
+type_CASH_OUT"
+
+type_DEBIT"
+type_PAYMENT"
+type_TRANSFER"
+previous_transaction_count"
+previous_average_amount*%
+projectfinancial_fraud_classifier2€†°–:şevent_timestampZ{yC:\Users\Admin\Documents\Financial_Fraud_Classifier\feature_store\fraud_features\feature_repo\data\fraud_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢fraud_transaction_source’àº÷ÖßÅï"àº÷ÖßÅï@b
+transaction_id’latest
+ĞóÖ¨±Şİàº÷Öğ¹° RÓ
+Ğ
+,feast.infra.online_stores.sqlite.SqliteTable"Ÿ
+rC:\Users\Admin\Documents\Financial_Fraud_Classifier\feature_store\fraud_features\feature_repo\data\online_store.db)fraud_features_fraud_transaction_featuresbevent_timestampZ{yC:\Users\Admin\Documents\Financial_Fraud_Classifier\feature_store\fraud_features\feature_repo\data\fraud_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢fraud_transaction_sourceªfraud_features’ĞóÖĞÁ˜§"ĞóÖ˜×äÜŠ0
+
+fraud_features
+ĞóÖ€şÌ©ĞóÖ€şÌ©’Ç
+À
+fraud_transaction_featuresfraud_features"feature_view*Ï
+®
+fraud_transaction_featuresfraud_featurestransaction"
+step"
+
+amount"
+oldbalanceOrg"
+oldbalanceDest"
+
+amount_log"
+amount_to_origin_balance"!
+amount_exceeds_origin_balance"
+origin_balance_is_zero"
+is_transfer"
+is_cash_out"
+type_CASH_IN"
+type_CASH_OUT"
+
+type_DEBIT"
+type_PAYMENT"
+type_TRANSFER*%
+projectfinancial_fraud_classifier2€†°–:şevent_timestampZ{yC:\Users\Admin\Documents\Financial_Fraud_Classifier\feature_store\fraud_features\feature_repo\data\fraud_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢fraud_transaction_source’ĞóÖĞÁ˜§"ĞóÖ˜×äÜ@b
+transaction_id’latest
+ĞóÖ¨±ŞİĞóÖ¨±Şİ2ĞóÖàÑØŞB$25e7b857-1b9d-4d94-b189-49b8f909ec38
+
+fraud_transaction_featuresfraud_features"feature_view*
+ë
+fraud_transaction_featuresfraud_featurestransaction"
+step"
+
+amount"
+oldbalanceOrg"
+oldbalanceDest"
+
+amount_log"
+amount_to_origin_balance"!
+amount_exceeds_origin_balance"
+origin_balance_is_zero"
+is_transfer"
+is_cash_out"
+type_CASH_IN"
+type_CASH_OUT"
+
+type_DEBIT"
+type_PAYMENT"
+type_TRANSFER"
+previous_transaction_count"
+previous_average_amount*%
+projectfinancial_fraud_classifier2€†°–:şevent_timestampZ{yC:\Users\Admin\Documents\Financial_Fraud_Classifier\feature_store\fraud_features\feature_repo\data\fraud_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢fraud_transaction_source’àº÷ÖßÅï"àº÷ÖßÅï@b
+transaction_id’latest
+ĞóÖ¨±Şİàº÷Öğ¹° 2àº÷Ö š§³B$24d8aa83-c60e-4815-bbef-8e1013152561
